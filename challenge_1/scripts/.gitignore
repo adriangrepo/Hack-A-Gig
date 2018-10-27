@@ -1,5 +1,4 @@
-/input/*
+/fastai/*
 /.idea/*
 /.ipynb_checkpoints/*
-.env
-.scripts
+/__pycache__/*
