@@ -1,3 +1,5 @@
+input
+!*input
 /input/*
 /.idea/*
 /.ipynb_checkpoints/*
