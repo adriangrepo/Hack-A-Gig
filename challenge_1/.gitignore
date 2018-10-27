@@ -1,0 +1,8 @@
+/input/*
+/london_smartmeter/*
+/kaggle_notebooks/*
+/notebooks_datascience/*
+/.idea/*
+/.ipynb_checkpoints/*
+.env
+.scripts
